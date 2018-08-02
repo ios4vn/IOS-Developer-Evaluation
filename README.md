@@ -8,7 +8,7 @@
 	•	Good: Protocol, Category, Block. Quản lý bộ nhớ: ARC/MRC
 	•	Excellent: Tích hợp với code Swift hoặc C, C++, Error handling.
 # Swift
-	•	Standar: Phân biệt values type vs reference type, methods, properties, enum.  Phân biệt ưu nhược điểm với objective Coptional type
+	•	Standar: Phân biệt values type vs reference type, methods, properties, enum.  Phân biệt ưu nhược điểm với objective-C, optional type
 	•	Good: Extension, protocol, closure, generics, if let, guard let, optional type 
 	•	Excellent: Thành thạo map-reduce-filter , error handling, defer .
 # IOS SDK
