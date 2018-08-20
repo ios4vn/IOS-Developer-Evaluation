@@ -28,9 +28,9 @@
 	•	Good: Sử dụng thành thạo Cocoa Pod và sửa được các lỗi liên quan, tuỳ chỉnh lib để phù hợp yêu cầu
 	•	Excellent: Thành thạo cocoa pod, catharge, có repo cocoa pod hoặc là distribute cho một 3rd nào đó
 # Design pattern
-	•	Standard: Object Oriented Design: thừa kế, đa hình … Các mô hình MVC, target-action, KVO, Singleton
+	•	Standard: Object Oriented Design: thừa kế, đa hình … Các mô hình target-action, KVO, Singleton
 	•	Good: Protocol Oriented Design, Delegation,  Notifications. Ưu nhược điểm của từng loại
-	•	Excellent: Thành thạo các pattern khác MVVM, Inversion, Dependency Injection. 
+	•	Excellent: Thành thạo các pattern khác: Inversion, Dependency Injection. 
 # Distribute application
 	•	Standard: Hiểu bản chất provision, certificate để build và cài đặt trên device thật
 	•	Good: Hiểu quy trình và từng submit app lên appstore 
